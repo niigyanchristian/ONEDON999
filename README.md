@@ -1,5 +1,5 @@
 - 👋 Hi, I’m NII-GYAN CHRISTIAN popularly known as 1Don
-- 👀 I’m interested in Listening to music
+- 👀 I’m interested in Coding alongside Listening to music
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by contacing me on +233553999247
