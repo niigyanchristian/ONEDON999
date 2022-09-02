@@ -12,7 +12,7 @@
 - Frontend for Web (ReactJS, VueJS, HHTML&CSS, Bootstrap, Tailwinds...)
 - Frontend for Mobile (React native with Epo).
 - Backend (NodeJs, Mongodb & Django)
-- 💞️ I’m always to help you build your dream project or help you with a your project.
+- 💞️ I’m always there to help you build your dream project or help you with a your project.
 - 📫 You can reach me by contacting me on **+233553999247**
 - 👀 You can follow my tutorials on my YouTube channel ( https://www.youtube.com/channel/UC-HmboDI-u5W3MBvygbtvaA )
 
