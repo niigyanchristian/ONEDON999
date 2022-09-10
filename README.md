@@ -1,6 +1,5 @@
 # THE DON HUB
-
-![Blue Modern and Minimalist Technology YouTube Channel Art (1)](https://user-images.githubusercontent.com/81350935/167717517-5d3b21e7-47a7-4775-923e-b6250d8bdc5b.png)
+<!--- ![Blue Modern and Minimalist Technology YouTube Channel Art (1)](https://user-images.githubusercontent.com/81350935/167717517-5d3b21e7-47a7-4775-923e-b6250d8bdc5b.png) -->
 
 
 ### > ThDonHub is a new rising channel dedicated to help shape your skills or better still help you make the right choices in choosing a software career.
